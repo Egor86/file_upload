@@ -5,6 +5,8 @@
     "require": {
         "php": "^7.0"
     },
+
+    "homepage": "https://github.com/Egor86/file_upload",
     "license": "MIT",
     "authors": [
         {
